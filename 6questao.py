@@ -4,3 +4,6 @@ def soma_diagonal_principal(matriz):
         soma += matriz[i][i]
         return soma
 
+'''
+Essa questão eu acertei.
+'''

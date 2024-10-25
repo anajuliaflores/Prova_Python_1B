@@ -51,3 +51,8 @@ tem_duplicados3(lista)
 end = time.time()
 duration = end - start 
 print('Tempo de execução: %f' % duration)
+
+"""
+A resposta certa seria em que o 3° código é mais eficienteem tempo, mas consome mais espaço.
+Quando eu tentei identficar os códigos não consegui entender muito bem os dois últimos, então por isso achei que o 1° código seria a respota mais viável.
+"""

@@ -5,3 +5,7 @@ def func(n):
         return n * func(n-1)
 
 print(func(3))
+
+'''
+O resultado seria 6. Acertei 
+'''
